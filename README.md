@@ -1,4 +1,4 @@
-# Process-Report
+# Users-Process-Report
 
 ### Overview
 A Bash script that checks all the processes for either all users or a single user signed in to the system. It reports back the ID of the user and the number of processes they have running every 5 seconds. Catches the SIGINT signal and prompts the user with an exit confirmation. Developed in a Linux Environment. 
